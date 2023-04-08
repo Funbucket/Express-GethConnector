@@ -1,0 +1,5 @@
+# node_modules 무시
+/node_modules
+
+# local env filtes
+.env*.local
